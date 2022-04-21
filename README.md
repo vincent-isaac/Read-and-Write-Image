@@ -19,8 +19,8 @@ Use imwrite(filename, image) to write the image.
 ### Step5:
 End the program and close the output image windows.
 ## Program:
-### Developed By:
-### Register Number: 
+### Developed By:J Vincent isaac jeyaraj
+### Register Number: 212220230060
 i) #To Read,display the image
 ```
 import cv2
@@ -73,7 +73,7 @@ cv2.waitKey(0)
 
 <br>
 ![Screenshot (23)](https://user-images.githubusercontent.com/75234588/164487955-43108756-e764-4c7f-bdab-033cc82a284f.png)
-
+<br>
 
 ![Screenshot (24)](https://user-images.githubusercontent.com/75234588/164487515-bc8e335d-541d-415c-9063-3dcf5cfba7e9.png)
 
